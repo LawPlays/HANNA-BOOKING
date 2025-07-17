@@ -166,7 +166,7 @@
 
   <div class="login-container">
     <h2>Welcome Back</h2>
-    <p class="description">Log in with your magical Stitch credentials ✨</p>
+    <p class="description">Log in your credentials ✨</p>
 
     <!-- Session Status -->
     @if (session('status'))

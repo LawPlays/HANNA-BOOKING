@@ -25,7 +25,7 @@
         }
 
         .dashboard-header p {
-            color: #6a1b9a;
+            color: #e70a84ff;
             font-size: 1.2rem;
             margin-bottom: 2rem;
         }
@@ -149,7 +149,7 @@
     <div class="dashboard-container">
         <header class="dashboard-header">
             <h1>💖 Booking Dashboard</h1>
-            <p>Manage your platform with sparkle and style!</p>
+            <p>Don't just dream it, book it! 🗓️</p>
         </header>
 
         <section class="card-grid">
